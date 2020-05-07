@@ -10,7 +10,7 @@ CHALLENGE: Have a website that when you open it in the browser it subscribes to 
 '''
 
 '''
-Controlling the mouse.
+Controlling the user's mouse.
 '''
 from pynput.mouse import Button, Controller, Listener
 
