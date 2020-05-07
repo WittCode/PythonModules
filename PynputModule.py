@@ -12,7 +12,7 @@ CHALLENGE: Have a website that when you open it in the browser it subscribes to 
 '''
 Controlling the mouse.
 '''
-from PynputModule.mouse import Button, Controller, Listener
+from pynput.mouse import Button, Controller, Listener
 
 mouse = Controller()    ##mouse is an instance of the controller class.
 
